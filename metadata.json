@@ -1,0 +1,6 @@
+{
+  "name": "PulseRoute ER - Hospital Emergency Management & AI Triage",
+  "description": "Real-time hospital emergency intake, dynamic priority queuing, Gemini AI triage routing, doctor dash, clinical policy guardrails, and live WebSocket telemetry.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
